@@ -1,0 +1,9 @@
+[
+  {
+    "type": "java",
+    "name": "frcJava",
+    "port": 8349,
+    "target": "10.68.94.2",
+    "project": "2022-Rapid-React-Comp-PhotoSensor"
+  }
+]
